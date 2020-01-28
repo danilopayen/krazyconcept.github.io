@@ -1,2 +1,2 @@
-# krazyconcept
+# krazyconcept.github.io
 Krazy Concept
